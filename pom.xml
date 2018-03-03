@@ -1,7 +1,7 @@
 <dependency>
     <groupId>rkhd</groupId>
     <artifactId>paas-fieldactivity-core</artifactId>
-    <version>1804.21</version>
+    <version>1804.22</version>
 </dependency>
 
 <dependency>

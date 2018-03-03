@@ -1,0 +1,11 @@
+<dependency>
+    <groupId>rkhd</groupId>
+    <artifactId>apps-manager-core</artifactId>
+    <version>1804.1</version>
+</dependency>
+
+<dependency>
+    <groupId>rkhd</groupId>
+    <artifactId>base-setting-core</artifactId>
+    <version>fsc.1</version>
+</dependency>

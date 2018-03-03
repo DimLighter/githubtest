@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>rkhd</groupId>
+    <artifactId>apps-manager-core</artifactId>
+    <version>1804.1</version>
+</dependency>

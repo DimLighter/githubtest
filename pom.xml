@@ -1,17 +1,17 @@
 <dependency>
     <groupId>rkhd</groupId>
     <artifactId>paas-fieldactivity-core</artifactId>
-    <version>fsc.100</version>
+    <version>fsc.110</version>
 </dependency>
 
 <dependency>
     <groupId>rkhd</groupId>
     <artifactId>apps-manager-core</artifactId>
-    <version>fsc.200</version>
+    <version>fsc.210</version>
 </dependency>
 
 <dependency>
     <groupId>rkhd</groupId>
     <artifactId>base-setting-core</artifactId>
-    <version>fsc.1</version>
+    <version>fsc.30</version>
 </dependency>
